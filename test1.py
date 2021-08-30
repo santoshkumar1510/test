@@ -2,4 +2,4 @@
 import os
 
 # 'mkdir' creates a directory in current directory.
-os.mkdir('tempDir') 
+os.mkdir('Hare Krishna') 
